@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Ustroke';
+    src: local('Ustroke Regular'), local('Ustroke-Regular'),
+        url('Ustroke-Regular.woff2') format('woff2'),
+        url('Ustroke-Regular.woff') format('woff'),
+        url('Ustroke-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+  }
